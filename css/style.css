@@ -5647,9 +5647,9 @@ footer.site-footer .bottom-footer p {
 }
 
 .custom-logo {
-  font-family: 'Montserrat' !important; 
+  font-family: 'Montserrat', sans-serif!important; 
   font-weight: 900 !important;
-  font-size: 2em !important;
+  font-size: 30px !important;
   color: black !important;
 }
 
