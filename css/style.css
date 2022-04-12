@@ -645,7 +645,7 @@ body.active-preloader-ovh {
   margin-left: 20px;
 }
 .header-top.home-three .logo {
-  padding: 26px 0;
+  padding: 45px 0;
 }
 .header-top.home-three .logo:before {
   display: none;
@@ -5638,3 +5638,21 @@ footer.site-footer .bottom-footer p {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.logo .pull-left {
+  line-height: 1em !important;
+  vertical-align: baseline !important;
+  background-color: red;
+  height: 100px;
+}
+
+.custom-logo {
+  font-family: 'Montserrat' !important; 
+  font-weight: 900 !important;
+  font-size: 2em !important;
+  color: black !important;
+}
+
+.custom-letter {
+  color: #ed5c40 !important
+}
